@@ -134,9 +134,9 @@
       "slug": "baizhi-agent-toolkit",
       "name": "Baizhi Agent Toolkit",
       "description": "Connect your Baizhi Cloud account to use the agent tools available to your key in Vetta, including web research and page extraction.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "configVersion": 1,
-      "author": "Baizhi Cloud",
+      "author": "Vetta / Baizhi Cloud / @ct-jaryn",
       "category": "Productivity",
       "categoryI18n": {
         "zh": "效率",
